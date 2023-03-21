@@ -1,6 +1,6 @@
-- 👋 Olá, sou Rafael
-- 👀 Tenho interesse em Unity
-- 🌱 Atualmente estou estudando desenvolvimento de jogos 2D
+- 👋 Olá, sou Rafael;
+- 👀 Sou apenas um humano capaz de superar todos os limites;
+- 🌱 Estudante de Python;
 - 📫 Contato: rafaelbogosbr10@gmail.com
 
 <!---
