@@ -1,6 +1,6 @@
 - 👋 Olá, sou Rafael;
 - 👀 Sou apenas um humano capaz de superar todos os limites;
-- 🌱 Estudante de Python;
+- 🌱 Estudante de Python, HTML5 e CSS3;
 - 📫 Contato: rafaelbogosbr10@gmail.com
 
 <!---
