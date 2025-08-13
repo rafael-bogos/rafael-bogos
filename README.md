@@ -1,21 +1,41 @@
-  ## Olá! Sou o Rafael👋 Sou apenas um programador desvendando paradigmas!
-![Rafael Bogos](https://github-readme-stats.vercel.app/api?username=rafael-bogos&show_icons=true&theme=dark)
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 👋 Olá, eu sou o Rafael Bogos!  
+💻 Programador em constante evolução, desvendando paradigmas e transformando ideias em código.  
+🚀 Apaixonado por tecnologia, desenvolvimento web e soluções criativas.
 
+---
 
-## 
+### 📊 Minhas Estatísticas no GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-bogos&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bogos&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-<div> 
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-bogos&theme=dark" alt="GitHub Streak" />
+</p>
 
-  <a href="https://www.instagram.com/bogosrafael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-bogos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+---
+
+### 🚀 Minhas Skills
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,html,css,postgres,mongodb,docker,git,github,vscode,postman,figma,express,vite" alt="Skills Icons" />
+  </a>
+</p>
+
+---
+
+### 🌐 Onde me encontrar  
+<div align="center">
+  <a href="https://www.instagram.com/bogosrafael/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-bogos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
 </div>
