@@ -1,8 +1,8 @@
-<h1 align="center">👋 𝙊𝙡𝙖́, 𝙨𝙤𝙪 𝙤 𝙍𝙖𝙛𝙖𝙚𝙡 𝘽𝙤𝙜𝙤𝙨!</h1>
+<h1 align="center">👋 Olá, sou o Rafael Bogos!</h1>
 
 <p align="center">
-💻 <strong>𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙙𝙤𝙧 𝙚𝙢 𝙘𝙤𝙣𝙨𝙩𝙖𝙣𝙩𝙚 𝙚𝙫𝙤𝙡𝙪𝙘̧𝙖̃𝙤</strong><br/>
-Desvendando paradigmas e transformando ideias em código.  
+💻 <strong>Programador em constante evolução</strong><br/>
+Desvendando paradigmas e transformando ideias em código.<br/>
 🚀 Apaixonado por <strong>tecnologia, desenvolvimento web</strong> e <strong>soluções criativas</strong>.
 </p>
 
@@ -55,6 +55,7 @@ Desvendando paradigmas e transformando ideias em código.
 ---
 
 ## 🐍 Meus commits
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bogosrafael/bogosrafael/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rafael-bogos/rafael-bogos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
