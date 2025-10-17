@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # Atualiza todo dia à meia-noite (UTC)
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,12 +14,13 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: bogosrafael
+          # usa automaticamente o dono do repositório (funciona para seu perfil ou org)
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
