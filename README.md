@@ -7,7 +7,7 @@ Trabalho principalmente com **JavaScript/TypeScript**, **React** e **Node.js**, 
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,git,github,vscode,figma,vite,linux,bash" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,git,github,figma,vite,linux,bash" alt="Tech stack" />
 </p>
 
 ## Em foco no momento
