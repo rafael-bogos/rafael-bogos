@@ -17,6 +17,13 @@ Trabalho principalmente com **JavaScript/TypeScript**, **React** e **Node.js**, 
 - Deploy e DevOps com Docker
 - Aplicações de IA no fluxo de desenvolvimento
 
+## Projetos em destaque
+
+- **[hubdesk](https://github.com/rafael-bogos/hubdesk-client)** — Plataforma de helpdesk para gerenciamento de chamados, tickets e suporte ao cliente ([client](https://github.com/rafael-bogos/hubdesk-client) · [server](https://github.com/rafael-bogos/hubdesk-server))
+- **[skills-platform](https://github.com/rafael-bogos/skills-platform)** — Plataforma para gerenciar, criar e executar skills e automações
+- **[captured-moments](https://github.com/rafael-bogos/captured-moments-client)** — Projeto com IA aplicada ([client](https://github.com/rafael-bogos/captured-moments-client) · [server](https://github.com/rafael-bogos/captured-moments-server))
+- **[portfolio](https://github.com/rafael-bogos/portfolio-rafael-bogos)** — Meu site pessoal de portfólio
+
 ## GitHub
 
 <p align="left">
