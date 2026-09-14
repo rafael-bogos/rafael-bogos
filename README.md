@@ -20,11 +20,6 @@ Trabalho principalmente com **JavaScript/TypeScript**, **React** e **Node.js**, 
 ## GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafael-bogos&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bogos&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
   <img src="https://raw.githubusercontent.com/rafael-bogos/rafael-bogos/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
 </p>
 
