@@ -1,61 +1,43 @@
-<h1 align="center">👋 Olá, sou o Rafael Bogos!</h1>
+# Rafael Bogos
 
-<p align="center">
-💻 <strong>Programador em constante evolução</strong><br/>
-Desvendando paradigmas e transformando ideias em código.<br/>
-🚀 Apaixonado por <strong>tecnologia, desenvolvimento web</strong> e <strong>soluções criativas</strong>.
+Desenvolvedor Full Stack focado em construir produtos web sólidos, do front-end à infraestrutura.
+
+Trabalho principalmente com **JavaScript/TypeScript**, **React** e **Node.js**, com experiência em bancos relacionais e não relacionais, containers e deploy em nuvem.
+
+## Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,git,github,vscode,figma,vite,linux,bash" alt="Tech stack" />
 </p>
 
----
+## Em foco no momento
 
-## 🚀 Minhas Skills  
+- Arquitetura de software e clean code
+- Integração front-end/back-end via APIs REST
+- Deploy e DevOps com Docker
+- Aplicações de IA no fluxo de desenvolvimento
 
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,git,github,vscode,postman,figma,vite,linux,bash,npm,vercel,mysql,vim" alt="Skills Icons" />
-  </a>
+## GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafael-bogos&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bogos&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rafael-bogos/rafael-bogos/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
+</p>
 
-## 🧠 O que estou aprendendo
-- ⚙️ **Arquitetura de Software e Clean Code**
-- 🧩 **Integração entre front-end e back-end com APIs REST**
-- ☁️ **Deploy e DevOps com Docker e Vercel**
-- 🧠 **Inteligência Artificial aplicada ao desenvolvimento web**
+## Contato
 
----
-
-## 🌐 Onde me encontrar  
-
-<div align="center">
-  <a href="https://www.instagram.com/bogosrafael/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p align="left">
   <a href="https://www.linkedin.com/in/rafael-bogos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rafaelbogosbr10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
----
-
-## ⚡ Um pouco mais sobre mim
-
-🎯 Sempre buscando evoluir e escrever códigos mais limpos e eficientes.  
-🌍 Amante de projetos que unem **tecnologia e propósito**.  
-💡 Transformando ideias em experiências reais.
-
----
-
-<h3 align="center">✨ "Código é mais do que lógica — é arte em movimento." ✨</h3>
-
----
-
-## 🐍 Meus commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafael-bogos/rafael-bogos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://www.instagram.com/bogosrafael/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
